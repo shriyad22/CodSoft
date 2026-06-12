@@ -31,7 +31,7 @@ This project predicts movie ratings using Machine Learning techniques based on f
 | Model | R² Score |
 |---------|---------|
 | Linear Regression | 0.10 |
-| Decision Tree Regressor | Add Your Score |
+| Decision Tree Regressor | -0.23 |
 | Random Forest Regressor | 0.35 |
 
 ## Features Used

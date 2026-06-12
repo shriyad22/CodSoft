@@ -48,11 +48,4 @@ This project predicts movie ratings using Machine Learning techniques based on f
 ## Conclusion
 Among the implemented models, Random Forest Regressor achieved the best performance and provided the most accurate movie rating predictions. The project demonstrates the complete machine learning workflow, including data preprocessing, visualization, model training, evaluation, and prediction.
 
-## Files Included
-- movie_rating_prediction.ipynb
-- movies.csv
-- README.md
 
-## Author
-Shriya Deshmukh
-Data Science Intern at CodSoft

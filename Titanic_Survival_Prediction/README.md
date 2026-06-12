@@ -1,30 +1,29 @@
-# Movie Rating Prediction
+# Titanic Survival Prediction
 
 ## Overview
-This project predicts movie ratings using Machine Learning based on features such as genre, director, actors, year, duration, and votes.
+This project predicts whether a passenger survived the Titanic disaster using Machine Learning.
 
 ## Technologies Used
 - Python
 - Pandas
 - NumPy
 - Matplotlib
+- Seaborn
 - Scikit-learn
 
 ## Algorithms Used
-- Linear Regression
-- Decision Tree Regressor
-- Random Forest Regressor
+- Logistic Regression
+- Random Forest
 
 ## Features
 - Data Cleaning
-- Missing Value Handling
-- Feature Encoding
 - Data Visualization
+- Feature Engineering
 - Model Training
-- Rating Prediction
+- Prediction
 
 ## Result
-Random Forest Regressor achieved the best performance with an R² Score of approximately 0.35.
+Random Forest achieved better accuracy.
 
 ## Conclusion
-Machine Learning models were successfully trained to predict movie ratings, with Random Forest providing the most accurate predictions.
+Machine Learning models successfully predicted passenger survival.

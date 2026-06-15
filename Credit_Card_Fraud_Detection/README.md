@@ -29,6 +29,16 @@ The dataset contains anonymized credit card transaction records with the followi
 - Transaction Time
 - Class (Target Variable)
 
+
+The dataset used for this project is too large to be uploaded to this repository.
+
+You can download the dataset from Kaggle:
+
+https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud
+
+After downloading, place the `creditcard.csv` file in the project directory before running the notebook.
+
+
 ### Target Variable
 
 - 0 → Genuine Transaction
@@ -112,7 +122,6 @@ Key evaluation metrics used:
 Credit-Card-Fraud-Detection/
 │
 ├── Credit_Card_Fraud_Detection.ipynb
-├── creditcard.csv
 ├── README.md
 ├── class_distribution.png
 ├── confusion_matrix.png
